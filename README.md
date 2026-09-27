@@ -184,47 +184,13 @@ matching_results.tsv
 
 The output files contain the candidate relationships and final matched entity relationships respectively.
 
-## 🎯 What I Learned
-
-This project helped me gain practical experience with:
-
-* Entity resolution
-* Record linkage
-* Text preprocessing
-* Similarity-based matching
-* Candidate blocking
-* Large dataset processing
-* DuckDB
-* AWS SageMaker
-* Memory-aware Python workflows
-* Precision/recall trade-offs
-* Building reproducible data-processing pipelines
-
-## 🚀 Future Improvements
-
-Possible improvements include:
-
-* Character n-gram similarity
-* Token-based similarity metrics
-* Phonetic matching
-* Better multilingual/transliteration handling
-* Learned entity-matching models
-* More sophisticated address parsing
-* Threshold calibration using the complete training ground truth
-* Ensemble scoring using multiple matching signals
-* Evaluation against the official challenge validator
-
+  
 ## 📄 Documentation
 
 Additional implementation details are available in:
 
 [`Documentation_template.md`](Documentation_template.md)
 
-## 📜 License
-
-This project is released under the **MIT License**.
-
-See [`LICENSE`](LICENSE) for details.
 
 ---
 
